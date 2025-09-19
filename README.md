@@ -245,7 +245,7 @@ For support, please:
 - **Vite Team** - For the fast build tool
 - **Supabase Team** - For the backend-as-a-service platform
 - **Tailwind CSS Team** - For the utility-first CSS framework
-- **TEDx Community** - For inspiration and event management insights
+
 
 ---
 
